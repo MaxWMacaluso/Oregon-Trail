@@ -1,0 +1,4 @@
+Group leader's name: nick
+Miles traveled: 1762.
+Food remaining: 740 pounds of food.
+Money remaining: $-47 left.

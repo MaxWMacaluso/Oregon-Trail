@@ -1,0 +1,15 @@
+Kansas River Crossing, 102,River, 4
+Big Blue River Crossing, 185,River, 3
+Fort Kearney, 304 Fort,Fort, 0
+Chimney Rock, 554,Landmark, 0
+Fort Laramie, 640 Fort,Fort, 0
+Independence Rock, 830,Landmark, 0
+South Pass, 932,Landmark, 0
+Fort Bridger, 989 Fort,Fort, 0
+Green River Crossing, 1151,River, 5
+Soda Springs, 1295,Landmark, 0
+Fort Hall, 1395 Fort,Fort, 0
+Snake River Crossing, 1534,River, 5
+Fort Boise, 1648 Fort,Fort, 0
+Blue Mountains, 1808,Landmark, 0
+Fort Walla Walla, 1863 Fort,Fort, 0

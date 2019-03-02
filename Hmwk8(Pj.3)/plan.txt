@@ -1,0 +1,3 @@
+I want to create classes for: players, store, date, and position.
+
+Player class is going to be for each individual player.
